@@ -5,6 +5,7 @@ import jakarta.persistence.GeneratedValue;
 import org.springframework.data.annotation.Id;
 
 import java.util.Objects;
+
 @Entity
 public class Book {
 
